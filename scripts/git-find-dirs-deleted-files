@@ -2,7 +2,7 @@
 #
 # Print the number of deleted files per directory. The output indicates
 # if the directory is present in the HEAD revision.
-#
+# 
 # A deleted directory with a lot of files could indicate a 3rd party
 # component that has been deleted. These are usually good candidates for
 # purging to make Git repositories smaller (see `git-purge-files`).
